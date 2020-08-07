@@ -1,0 +1,9 @@
+
+mutagen==1.44.0
+oauthlib==3.1.0
+Pillow==7.1.2
+protobuf==3.12.2
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pygame==1.9.6
+
